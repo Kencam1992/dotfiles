@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kencam92@gmail.com
+	name = kenneth campbell
